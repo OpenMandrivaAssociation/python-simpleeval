@@ -20,5 +20,7 @@ expressions.
 
 %files
 %doc README.rst
+%license LICENCE
 %{py_sitedir}/simpleeval.py
+%{py_sitedir}/__pycache__/simpleeval*.pyc
 %{py_sitedir}/simpleeval-*.*-info
