@@ -1,5 +1,5 @@
 Name:		python-simpleeval
-Version:	1.0.7
+Version:	1.0.8
 Release:	1
 Summary:	Simple, safe single-expression evaluator
 License:	MIT
